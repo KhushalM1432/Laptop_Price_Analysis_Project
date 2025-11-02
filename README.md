@@ -1,6 +1,6 @@
 # Laptop_Price_Analysis_Project
-# Data Science
-### 💻 Laptop Price Analysis
+# Data_Science
+### 💻 Laptop_Price_Analysis
 1) Cleaned and analyzed a detailed dataset with features like brand, processor, RAM, storage, OS, graphics, and more.  
 2) Handled missing values and standardized data for accurate analysis.  
 3) Performed EDA to identify key factors influencing laptop prices and ratings.  

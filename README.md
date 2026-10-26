@@ -1,4 +1,4 @@
-## Laptop_Price_Analysis | Data_Science & Business_Analytics_Project | Python
+## Laptop Price Analysis | Data Science & Business Analytics Project | Python
 
 ## Data Science
 
